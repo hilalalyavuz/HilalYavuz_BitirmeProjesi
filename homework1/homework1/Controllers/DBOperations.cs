@@ -449,6 +449,7 @@ namespace homework1.Controllers
                 fat.UserId = user.Id;
                 fat.DaireId = user.DaireId;
                 fat.Ay = _fatura.Ay;
+                fat.Yıl = _fatura.Yıl;
                 faturas.Add(fat);
 
             }
