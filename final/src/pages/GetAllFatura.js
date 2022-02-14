@@ -28,7 +28,7 @@ function GetAllFatura() {
 
   const deletefatura = async (id,amount) => {  
      
-    await axios.delete(`http://localhost:5133/api/Fatura/${id}/${amount}`,config)  
+    await axios.delete(`http://localhost:5133/api/Fatura/${id}/`,config)  
       .then((result) => {  
         console.log(result);
         console.log(result.data); 
