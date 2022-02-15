@@ -1,4 +1,4 @@
-## Hilal_Yavuz Bitirme Projesi
+## Hilal_Yavuz Bootcamp Bitirme Projesi
 ### Site Management System
 - In this project, I designed a system in which the administrator can track invoices and dues, and users/site residents can view and pay their invoices and send messages to the administrator within a site.
 - I made the backend of my project based on the simple homework 1 I made at the beginning of the course.
